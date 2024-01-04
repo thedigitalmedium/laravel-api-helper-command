@@ -3,13 +3,13 @@
     <a rel="dofollow" href="https://thedigitalmedium.com">The Digital Medium</a>
 </p>
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/thedigitalmedium/laravel-api-helper-command.svg?style=flat-square)](https://packagist.org/packages/thedigitalmedium/laravel-api-helper-command)
-[![Total Downloads](https://img.shields.io/packagist/dt/thedigitalmedium/laravel-api-helper-command.svg?style=flat-square)](https://packagist.org/packages/thedigitalmedium/laravel-api-helper-command)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/thedigitalmedium/api-helper-command.svg?style=flat-square)](https://packagist.org/packages/thedigitalmedium/api-helper-command)
+[![Total Downloads](https://img.shields.io/packagist/dt/thedigitalmedium/api-helper-command.svg?style=flat-square)](https://packagist.org/packages/thedigitalmedium/api-helper-command)
 
 ## Installation
 to install the package using composer:
 ```
-composer require thedigitalmedium/laravel-api-helper-command
+composer require thedigitalmedium/api-helper-command
 ```
 
 **Effortlessly Generate Essential API Files**
