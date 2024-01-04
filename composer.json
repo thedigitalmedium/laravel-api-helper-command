@@ -39,8 +39,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "TheDigitalMedium\\ApiHelperCommand\\ApiHelperCommandServiceProvider",
-                "TheDigitalMedium\\ApiHelperCommand\\MacroServiceProvider"
+                "TheDigitalMedium\\ApiHelperCommand\\ApiHelperCommandServiceProvider"
             ]
         }
     },
