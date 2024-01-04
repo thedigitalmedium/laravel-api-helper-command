@@ -1,6 +1,6 @@
 <?php
 
-namespace heDigitalMedium\ApiHelperCommand\Enum;
+namespace TheDigitalMedium\ApiHelperCommand\Enum;
 
 class CacheKeys extends Enum
 {
