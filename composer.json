@@ -34,10 +34,7 @@
     "autoload": {
         "psr-4": {
             "TheDigitalMedium\\ApiHelperCommand\\": "src/"
-        },
-        "files": [
-            "src/helpers.php"
-        ]
+        }
     },
     "extra": {
         "laravel": {
